@@ -1,0 +1,106 @@
+# =============== #
+# Unity Generated #
+# =============== #
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+MemoryCaptures/
+
+# ==================== #
+# Visual Studio / JetBrains #
+# ==================== #
+
+.vs/
+*.csproj
+*.sln
+*.suo
+*.user
+*.unityproj
+*.booproj
+*.pidb
+*.svd
+*.pdb
+*.db
+*.opendb
+*.VC.db
+
+# =========== #
+# OS-Specific #
+# =========== #
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# ============ #
+# Unity Smart Merge #
+# ============ #
+
+*.merge
+*.resolved
+
+# ============ #
+# Asset Cache #
+# ============ #
+
+# Ignore auto-generated meta files
+/[Aa]ssets/**/*.meta
+
+# Unity's cache files
+/[Aa]ssets/AssetStoreTools*
+/[Aa]ssets/AddressableAssetsData/*/*.bin
+/[Aa]ssets/StreamingAssets/aa/*
+
+# ============= #
+# Logs & Reports #
+# ============= #
+
+*.log
+*.tmp
+*.bak
+*.swp
+*.lock
+*.pid
+*.seed
+*.crash
+
+# ========== #
+# Node.js (if using npm/yarn for packages) #
+# ========== #
+
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# ============= #
+# Generated Files #
+# ============= #
+
+*.apk
+*.aab
+*.unitypackage
+
+# ================= #
+# Rider / JetBrains #
+# ================= #
+
+.idea/
+*.iml
+
+# ================= #
+# Unity Collaborate #
+# ================= #
+
+.Collab/
+.CollabIgnore
