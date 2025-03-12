@@ -842,11 +842,11 @@
     <Reference Include="Unity.Searcher.Editor">
       <HintPath>E:\Unity\School Work\atlas-vfx-graph\VFX Graph\Library\ScriptAssemblies\Unity.Searcher.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.Rider.Editor">
-      <HintPath>E:\Unity\School Work\atlas-vfx-graph\VFX Graph\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.AI.Navigation">
       <HintPath>E:\Unity\School Work\atlas-vfx-graph\VFX Graph\Library\ScriptAssemblies\Unity.AI.Navigation.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Rider.Editor">
+      <HintPath>E:\Unity\School Work\atlas-vfx-graph\VFX Graph\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipeline.Universal.ShaderLibrary">
       <HintPath>E:\Unity\School Work\atlas-vfx-graph\VFX Graph\Library\ScriptAssemblies\Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
@@ -908,11 +908,11 @@
     <Reference Include="Unity.VisualEffectGraph.Runtime">
       <HintPath>E:\Unity\School Work\atlas-vfx-graph\VFX Graph\Library\ScriptAssemblies\Unity.VisualEffectGraph.Runtime.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.Collections.Editor">
-      <HintPath>E:\Unity\School Work\atlas-vfx-graph\VFX Graph\Library\ScriptAssemblies\Unity.Collections.Editor.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.VisualEffectGraph.Editor">
       <HintPath>E:\Unity\School Work\atlas-vfx-graph\VFX Graph\Library\ScriptAssemblies\Unity.VisualEffectGraph.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Collections.Editor">
+      <HintPath>E:\Unity\School Work\atlas-vfx-graph\VFX Graph\Library\ScriptAssemblies\Unity.Collections.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
       <HintPath>E:\Unity\School Work\atlas-vfx-graph\VFX Graph\Library\ScriptAssemblies\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
@@ -955,6 +955,9 @@
     </Reference>
     <Reference Include="Unity.VisualScripting.State">
       <HintPath>E:\Unity\School Work\atlas-vfx-graph\VFX Graph\Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.2D.Sprite.Editor">
+      <HintPath>E:\Unity\School Work\atlas-vfx-graph\VFX Graph\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.AI.Navigation.Editor.ConversionSystem">
       <HintPath>E:\Unity\School Work\atlas-vfx-graph\VFX Graph\Library\ScriptAssemblies\Unity.AI.Navigation.Editor.ConversionSystem.dll</HintPath>
